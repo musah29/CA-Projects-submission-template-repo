@@ -1,3 +1,2 @@
 # Article
-
-Please host the drafts and all the materials, including the final version, related to your article in this folder.
+https://medium.com/@musahibrahim29/uncovering-trends-and-opportunities-in-the-indian-startup-ecosystem-a-python-based-approach-79f050cdaf61
